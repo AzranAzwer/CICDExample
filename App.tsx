@@ -10,7 +10,7 @@ import {SafeAreaView} from 'react-native';
 
 import {Colors} from 'react-native/Libraries/NewAppScreen';
 import {InputCompoent} from './components/Input';
-//jjj
+
 const App = () => {
   const backgroundStyle = {
     backgroundColor: Colors.lighter,
